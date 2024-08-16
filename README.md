@@ -1,5 +1,6 @@
-# Welcome to GitHub Desktop!
+# eBook gratuit
+## CC-BY-SA
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Généré jeudi 15 août 2024 par Claude 3.5 Sonnet et Gemini Advanced 1.5.
+Sentez-vous libre de corriger les typo et les références biblio (certaines sont peut-être des hallucinations).
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
